@@ -66,6 +66,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="graph.html" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -85,12 +86,15 @@
     <Content Include="PieChart.html" />
     <Content Include="select.html" />
     <Content Include="selectAll.html" />
+    <Content Include="simpletree.html" />
     <Content Include="svg.html" />
     <Content Include="svgcircle.html" />
     <Content Include="svgrectangle.html" />
     <Content Include="svgtransformation.html" />
     <Content Include="svgtransformation1.html" />
     <Content Include="transmission.html" />
+    <Content Include="tree.html" />
+    <Content Include="tree1.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
